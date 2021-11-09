@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>423</width>
-    <height>406</height>
+    <width>467</width>
+    <height>402</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,7 +18,7 @@
     <rect>
      <x>20</x>
      <y>40</y>
-     <width>381</width>
+     <width>291</width>
      <height>41</height>
     </rect>
    </property>
@@ -38,7 +38,7 @@
      </widget>
     </item>
     <item>
-     <widget class="QLineEdit" name="lineEdit"/>
+     <widget class="QLineEdit" name="left"/>
     </item>
    </layout>
   </widget>
@@ -65,7 +65,7 @@
     <rect>
      <x>20</x>
      <y>90</y>
-     <width>381</width>
+     <width>291</width>
      <height>41</height>
     </rect>
    </property>
@@ -85,7 +85,7 @@
      </widget>
     </item>
     <item>
-     <widget class="QLineEdit" name="lineEdit_2"/>
+     <widget class="QLineEdit" name="right"/>
     </item>
    </layout>
   </widget>
@@ -94,9 +94,35 @@
     <rect>
      <x>15</x>
      <y>141</y>
-     <width>391</width>
+     <width>441</width>
      <height>251</height>
     </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="see_history">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>30</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Показать историю</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="clear_history">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>80</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Очистить историю</string>
    </property>
   </widget>
  </widget>

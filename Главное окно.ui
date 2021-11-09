@@ -111,7 +111,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>14</pointsize>
+      <pointsize>12</pointsize>
       <weight>50</weight>
       <bold>false</bold>
      </font>
@@ -131,7 +131,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>16</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="text">
@@ -185,7 +185,7 @@
     </property>
     <property name="font">
      <font>
-      <pointsize>20</pointsize>
+      <pointsize>12</pointsize>
      </font>
     </property>
     <property name="text">
